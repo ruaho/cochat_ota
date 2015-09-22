@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cochat.cn/app/install/cochat_2_6_2_4.ipa</string>
+					<string>https://raw.githubusercontent.com/ruaho/cochat_ota/master/cochat/cochat_2_6_2_4.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
