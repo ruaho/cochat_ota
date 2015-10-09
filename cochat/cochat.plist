@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.ruaho.cochatcn.pro</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>2.6.2.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cochat_pro</string>
+				<string>echat</string>
 			</dict>
 		</dict>
 	</array>
