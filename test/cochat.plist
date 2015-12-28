@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruaho.cochat.demo</string>
+				<string>cn.com.icbc.anyOATest</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cochat_pro</string>
+				<string>工银e办公测</string>
 			</dict>
 		</dict>
 	</array>
