@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ruaho/cochat_ota/blob/master/hhcx/oa.ipa</string>
+					<string>http://36.110.103.46:9003/oa.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
